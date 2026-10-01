@@ -8,7 +8,7 @@
 - 🎓 Mahasiswa **Teknik Informatika** di **Universitas Dian Nuswantoro**
 - 🔭 Saat ini sedang mempelajari **Pengembangan Aplikasi Mobile dengan bahasa Kotlin dan Wenbsite menggunakan Framework Laravel**
 - 🌱 Memiliki minat pada **Mobile App Development, Web Development, Backend Engineering, Frontend Engineering, & Software Architecture**
-- 💬 Tanyakan saya tentang **[Keahlian Utama saya adalah Pengembangan Aplikasi Mobile Apps**
+- 💬 Tanyakan saya tentang **Keahlian Utama saya adalah Pengembangan Aplikasi Mobile Apps**
 - 📬 Hubungi saya via email di **danielaquaries@gmail.com**
 
 ---
@@ -35,8 +35,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=danielaquaries20&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaquaries20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
