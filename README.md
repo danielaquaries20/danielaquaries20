@@ -5,11 +5,11 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🎓 Mahasiswa **Teknik Informatika** di **Universitas Dian Nuswantoro**
-- 🔭 Saat ini sedang mempelajari **Pengembangan Aplikasi Mobile (Kotlin) dan Website(Laravel)**
-- 🌱 Memiliki minat pada **Mobile App Development, Web Development, Backend & Frontend Engineering, serta Software Architecture**
-- 💬 Tanyakan saya tentang **Keahlian Utama saya adalah Pengembangan Aplikasi Mobile**
-- 📬 Hubungi saya via email di **danielaquaries@gmail.com**
+- 🎓 **Information Technology** student at **Dian Nuswantoro University**
+- 🔭 Currently learning **Mobile App Development (Kotlin) and Website (Laravel)**
+- 🌱 Having an interest in **Mobile App Development, Web Development, Backend & Frontend Engineering, and Software Architecture**
+- 💬 Ask me about **Mobile App Development**
+- 📬 Contact me via email at **danielaquaries@gmail.com**
 
 ---
 
