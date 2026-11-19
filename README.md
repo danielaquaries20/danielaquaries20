@@ -8,7 +8,7 @@
 - 🎓 **Information Technology** student at **Dian Nuswantoro University**
 - 🔭 Currently learning **Mobile App Development (Kotlin) and Website (Laravel)**
 - 🌱 Having an interest in **Mobile App Development, Web Development, Backend & Frontend Engineering, and Software Architecture**
-- 💬 Ask me about **Mobile App Development**
+- 💬 Ask me about **Mobile App & Web Development**
 - 📬 Contact me via email at **danielaquaries@gmail.com**
 
 ---
